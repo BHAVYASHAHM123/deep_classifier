@@ -6,7 +6,9 @@ from deepClassifier import logger
 from deepClassifier.utils import get_size
 from tqdm import tqdm
 from pathlib import Path
+import logging
 
+logger = logging.getLogger("deepClassifierLogger")
 
 class DataIngestion:
     def __init__(self, config: DataIngestionConfig):
