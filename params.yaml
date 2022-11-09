@@ -1,1 +1,8 @@
-key : val
+AUGMENTATION: True      # Means if we have only one img our's then this will create many images of that eg it will flip the img, do black n white etc.
+IMAGE_SIZE: [224, 224, 3] # As per VGG 16
+BATCH_SIZE: 16
+INCLUDE_TOP: False
+EPOCHS: 1   # Number of iteration
+CLASSES: 2  # Number of classes present the dataset eg in this there is just 2 (DOG, CAT)
+WEIGHTS: imagenet
+LEARNING_RATE: 0.01
