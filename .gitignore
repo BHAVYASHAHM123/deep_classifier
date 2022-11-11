@@ -146,3 +146,12 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-24-11-00-35/t
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-24-11-00-35/validation/events.out.tfevents.1663997774.C17HAWKE.2228.1.v2
 
 
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-10-15-33-30/train/events.out.tfevents.1668074612.LAPTOP-FH4Q72CM.29872.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-10-15-33-30/validation/events.out.tfevents.1668077431.LAPTOP-FH4Q72CM.29872.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-10-19-59-25/train/events.out.tfevents.1668090567.LAPTOP-FH4Q72CM.18448.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-10-19-59-25/validation/events.out.tfevents.1668093387.LAPTOP-FH4Q72CM.18448.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-11-00-08-56/train/events.out.tfevents.1668105537.LAPTOP-FH4Q72CM.18956.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-11-09-46-19/train/events.out.tfevents.1668140184.LAPTOP-FH4Q72CM.8884.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-11-11-09-46-19/validation/events.out.tfevents.1668143173.LAPTOP-FH4Q72CM.8884.1.v2
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
